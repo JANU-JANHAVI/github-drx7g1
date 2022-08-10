@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { appConst } from '../app.const';
+import { appConstant } from '../app.constant';
 import { environment } from '../environments/environment';
 import { Product } from '../products/product';
 
